@@ -1,0 +1,30 @@
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csprojAssemblyReference.cache
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Form1.resources
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+C:\Users\KrillDes\Desktop\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csprojAssemblyReference.cache
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Form1.resources
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.CoreCompileInputs.cache
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+C:\Users\limon\OneDrive\Рабочий стол\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.AssemblyReference.cache
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.CoreCompileInputs.cache
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\limon\OneDrive\Projects\Programming\C#\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.MainForm.resources
